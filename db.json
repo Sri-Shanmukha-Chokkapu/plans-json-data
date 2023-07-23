@@ -1,5 +1,4 @@
-{
-  [
+[
     {
       "flight_number": "ABC123",
       "airline": "Indigo",
@@ -35,5 +34,4 @@
       "arrival_time": "02:45 AM"
       "logo": "https://res.cloudinary.com/dpkxg8atl/image/upload/v1690116575/Singapore_Airlines_Logo_2.svg_pr0k3i.png"
     },
-  ]
-}
+]
