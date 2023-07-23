@@ -1,43 +1,43 @@
 {
   "search_results": [
     {
-      "flight_number": "ABC123",
+      "flightNumber": "ABC123",
       "airline": "Indigo",
       "hours": "8h 15m",
-      "departure_time": "09:30 AM",
-      "arrival_time": "18:15 PM",
+      "departureTime": "09:30 AM",
+      "arrivalTime": "18:15 PM",
       "logo": "https://res.cloudinary.com/dpkxg8atl/image/upload/v1690116575/IndiGo-Logo_rvegmn.png"
     },
     {
-      "flight_number": "XYZ456",
+      "flightNumber": "XYZ456",
       "airline": "Air India",
       "hours": "6h 10m",
-      "departure_time": "06:35 AM",
-      "arrival_time": "14:20 PM",
+      "departureTime": "06:35 AM",
+      "arrivalTime": "14:20 PM",
       "logo": "https://res.cloudinary.com/dpkxg8atl/image/upload/v1690116574/Air-India-Logo_miaf5z.png"
     },
     {
-      "flight_number": "DEF789",
+      "flightNumber": "DEF789",
       "airline": "Qatar Airways",
       "hours": "4h 25m",
-      "departure_time": "10:35 AM",
-      "arrival_time": "15:45 PM",
+      "departureTime": "10:35 AM",
+      "arrivalTime": "15:45 PM",
       "logo": "https://res.cloudinary.com/dpkxg8atl/image/upload/v1690116574/png-transparent-qatar-airways-logo-airline-oryx-others-text-logo-qatar-airways_bonj1j.png"
     },
     {
-      "flight_number": "GHI101",
+      "flightNumber": "GHI101",
       "airline": "Japan Airlines",
       "hours": "10h 40m",
-      "departure_time": "11:00 AM",
-      "arrival_time": "22:45 PM",
+      "departureTime": "11:00 AM",
+      "arrivalTime": "22:45 PM",
       "logo": "https://res.cloudinary.com/dpkxg8atl/image/upload/v1690116575/airline-logos-japan-e1424575148558_atagqn.webp"
     },
     {
-      "flight_number": "JKL112",
+      "flightNumber": "JKL112",
       "airline": "Singapore Airlines",
       "hours": "20h 40m",
-      "departure_time": "12:00 PM",
-      "arrival_time": "02:45 AM",
+      "departureTime": "12:00 PM",
+      "arrivalTime": "02:45 AM",
       "logo": "https://res.cloudinary.com/dpkxg8atl/image/upload/v1690116575/Singapore_Airlines_Logo_2.svg_pr0k3i.png"
     }
   ]
